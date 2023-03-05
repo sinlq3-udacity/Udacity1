@@ -58,7 +58,7 @@ jobs:
 
       - name: Install dependencies
 
-        run: pip install -r requirements.txt
+        run: pip install -r Udacity1/requirements.txt
 
         
 
